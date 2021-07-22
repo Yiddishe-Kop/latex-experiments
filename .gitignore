@@ -1,0 +1,7 @@
+*.dvi
+*.log
+*.aux
+*.fls
+*.gz
+*.fdb_latexmk
+*_temp.tex
